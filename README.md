@@ -98,4 +98,4 @@ Reducing manual workload for customer service agents
 Providing 24/7 automated helpdesk services
 
 ## 🧑‍💻 Author
-Aghosh
+Gayathri S
